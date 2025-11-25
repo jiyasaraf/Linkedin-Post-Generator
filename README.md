@@ -2,7 +2,6 @@
 
 A powerful, client-side web application that helps you research trending topics, generate engaging LinkedIn posts, and create AI-generated images—all in one place.
 
-![LinkedIn Post Generator Screenshot](https://placehold.co/800x400/e2e8f0/1e293b?text=LinkedIn+Post+Generator+Preview)
 
 ## ✨ Features
 
